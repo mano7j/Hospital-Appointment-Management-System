@@ -1,1 +1,37 @@
+# Manoj – Backend Contribution
 
+## Role Overview  
+As part of the team project, I was responsible for developing the backend of the Hospital Appointment Management System using Python and the Flask framework. My role focused on handling application logic, processing requests, and integrating the frontend with the database.
+
+## Responsibilities  
+
+- Developed backend application using Python and Flask  
+- Created routes to handle user requests and responses  
+- Implemented logic for:
+  - User registration and login  
+  - Appointment booking  
+  - Data retrieval and updates  
+- Integrated frontend with backend APIs  
+- Connected backend with MySQL database  
+- Managed data flow between client and server  
+- Handled form submissions and request validation  
+- Ensured smooth communication between different components of the system  
+
+## Backend Details  
+
+- Language: Python  
+- Framework: Flask  
+- Architecture: Client-Server model  
+
+## Key Learnings  
+
+- Understanding of backend development using Flask  
+- Handling HTTP requests and responses  
+- Creating and managing API routes  
+- Integrating frontend with backend services  
+- Working with databases through backend logic  
+- Debugging and handling runtime issues  
+
+## Conclusion  
+
+This role provided practical experience in backend development, helping to understand how server-side logic works and how different components of a web application are connected.
